@@ -1,6 +1,6 @@
-# Unhinted-iosevka-curly WebFont 17.1.0
+# Unhinted Iosevka Curly WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-curly/Unhinted-iosevka-curly.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka curly Web'` or `font-family: 'Unhinted iosevka curly Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-curly/unhinted-iosevka-curly.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Curly Web'` or `font-family: 'Iosevka Curly Web'`.
