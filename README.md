@@ -1,4 +1,4 @@
-# Unhinted Iosevka Curly WebFont 19.0.0
+# Unhinted Iosevka Curly WebFont 19.0.1
 
 ## How to use
 
